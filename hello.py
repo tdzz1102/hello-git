@@ -1,3 +1,5 @@
 message = 'luzao'
 m = 'l'
 e = 'u'
+x = 'x'
+y = 'y'
